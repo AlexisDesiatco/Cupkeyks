@@ -1,0 +1,116 @@
+body
+  {
+    color: #323A46;
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Source Sans 3', sans-serif;
+  }
+
+img
+  {
+    border-radius: 15px;
+    width: 55%;
+
+  }
+h1,h4,h3
+  {
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Playfair Display', serif;
+  }
+
+.ICON
+  {
+    padding: 0;
+    margin: 0;
+  }
+.DIFFERENTKIND
+  {
+    background-color: #FFD7D9;
+    padding-top: 10px;
+  }
+
+.CAROUSEL1
+  {
+      background-color: #31C496;
+      background-image: url("images/BACKGROUND3.png");
+      background-repeat: no-repeat;
+      background-size: cover;
+  }
+
+.CAROUSEL2
+  {
+      background-color: #31C496;
+      background-image: url("images/BACKGROUND4.png");
+      background-repeat: no-repeat;
+      background-size: cover;
+  }
+
+a:hover
+  {
+    color: white;
+  }
+
+.fas
+  {
+    color: black;
+
+  }
+.jumbotron
+  {
+    margin: 0;   margin: 0;
+  }
+
+.row .img
+  {
+    width: 50%;
+  }
+
+
+.Heading
+  {
+    padding-top: 200px;
+    padding-bottom:150px;
+    background-image: url("images/BACKGROUND2.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+  }
+
+
+.HeaderDescription
+  {
+    padding-left: 250px;
+    padding-right: 250px;
+  }
+
+.EatButton
+  {
+    padding-top:80px;;
+  }
+
+.Header1
+  {
+    padding-left: 150px;
+    padding-right: 150px;
+  }
+
+.CarouselPictures
+  {
+    padding: 0;
+    width: 30%;
+  }
+
+.card
+  {
+    border-radius: 20px;
+    margin: 0;
+    opacity: 95%;
+  }
+
+.FOOTER
+  {
+    background-image: url("images/FOOTER.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
